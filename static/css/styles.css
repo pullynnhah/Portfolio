@@ -98,11 +98,12 @@ body {
 
 @media (max-width: 1028px) {
     .mouse {
+        text-align: right;
         margin: 0 40% 0 10%;
     }
     .bio-text {
-        padding: 20%;
-        margin: 0 0 10%;
+        padding: 30%;
+        margin: 10% 0 10%;
         font-size: 2rem;
     }
 
