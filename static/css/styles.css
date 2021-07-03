@@ -98,11 +98,12 @@ body {
 
 @media (max-width: 1028px) {
     .mouse {
-        margin: 0 20% 0 10%;
+        margin: 0 40% 0 10%;
     }
     .bio-text {
+        padding: 20%;
         margin: 0 0 10%;
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
 
     .address, .phone {
