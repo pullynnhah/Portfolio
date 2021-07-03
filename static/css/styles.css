@@ -98,7 +98,7 @@ body {
 
 @media (max-width: 1028px) {
     .mouse {
-        padding-left: 20%;
+        margin-left: 20%;
     }
     .mouse, .bio-text {
         margin: 0 0 10%;
